@@ -8,7 +8,7 @@
     right: 4%;
     width: auto;
   }
-  #social {
+  #social a {
     display: inline-block;
   }
 }
